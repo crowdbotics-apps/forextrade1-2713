@@ -1,0 +1,3 @@
+rootProject.name = 'forextrade1_2713'
+
+include ':app'
